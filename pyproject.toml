@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-package-template"
-version = "0.1.0"
+version = "0.0.1"
 description = "My Python package template"
 authors = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
 maintainers = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
