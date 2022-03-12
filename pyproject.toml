@@ -2,8 +2,8 @@
 name = "py-pack-template"
 version = "0.0.1"
 description = "My Python package template"
-authors = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
-maintainers = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
+authors = ["Paul Rinckens"]
+maintainers = ["Paul Rinckens"]
 homepage = "https://github.com/paulrinckens/py-pack-template"
 repository = "https://github.com/paulrinckens/py-pack-template"
 documentation = "https://github.com/paulrinckens/py-pack-template#readme"
