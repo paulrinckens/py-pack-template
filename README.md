@@ -1,3 +1,3 @@
-# Py package template
+# Py pack template
 
 A blank Python package setup that serves as a template for Python package projects.

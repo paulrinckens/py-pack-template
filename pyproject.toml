@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "py-package-template"
+name = "py-pack-template"
 version = "0.0.1"
 description = "My Python package template"
 authors = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
 maintainers = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
-homepage = "https://github.com/paulrinckens/py-package-template"
-repository = "https://github.com/paulrinckens/py-package-template"
-documentation = "https://github.com/paulrinckens/py-package-template#readme"
+homepage = "https://github.com/paulrinckens/py-pack-template"
+repository = "https://github.com/paulrinckens/py-pack-template"
+documentation = "https://github.com/paulrinckens/py-pack-template#readme"
 license = "MIT"
 
 [build-system]
