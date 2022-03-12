@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "py-package-template"
+version = "0.1.0"
+description = "My Python package template"
+authors = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
+maintainers = ["Paul Rinckens <paul.rinckens@de.ibm.com>"]
+homepage = "https://github.com/paulrinckens/py-package-template"
+repository = "https://github.com/paulrinckens/py-package-template"
+documentation = "https://github.com/paulrinckens/py-package-template#readme"
+license = "MIT"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^22.1.0"
+flake8 = "^4.0.1"
+isort = "^5.10.1"
+pre-commit = "^2.17.0"
+pytest-cov = "^3.0.0"
+
+[tool.isort]
+profile = "black"
