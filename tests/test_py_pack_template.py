@@ -1,4 +1,4 @@
-from py_package_template import __version__
+from py_pack_template import __version__
 
 
 def test_version():
